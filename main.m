@@ -13,7 +13,7 @@ bestSoFarSolution = NaN; % best-so-far solution
 % Initialise a population
 %% TODO
 mu = 30;% Population size
-lambda = 200; % Offspring size
+lambda = 30; % Offspring size
 recombination_weight = 0.4;
 population = rand(mu, dimension).*(upper_bound-lower_bound) + lower_bound;
 
