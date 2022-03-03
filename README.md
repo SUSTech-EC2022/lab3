@@ -24,7 +24,7 @@ This function is implemented in this repository and it is named as *quadratic_fi
 
 
 ## Implement EAs with selection schemes and fitness scaling techniques
-**Exercise:** Compare their performance on the given function. Crossover and mutation operators in [Lab3](https://github.com/SUSTech-EC2022/lab2) can be used to implement your EAs.
+**Exercise:** Compare their performance on the given function. Crossover and mutation operators in [Lab2](https://github.com/SUSTech-EC2022/lab2) can be used to implement your EAs.
 
 Settings are given below:
 * Population size 30.
